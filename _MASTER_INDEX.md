@@ -1,4 +1,4 @@
-# Antigravity Brain Export
+# Antigravity Chat Logs
 
 **Exported:** 2026-11-08 15:04:46
 
