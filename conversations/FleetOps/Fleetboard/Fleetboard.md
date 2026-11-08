@@ -832,6 +832,3 @@ You can preview it on both devices right now:
 1. **On your PC**: Resize your browser window from full screen down to phone size to watch the layout transform smoothly.
 2. **On your Android Phone**: Open Chrome on your phone, type `http://192.168.1.53:5173/`, and test the bottom navigation and mobile touch cards!
 
-
----
-
