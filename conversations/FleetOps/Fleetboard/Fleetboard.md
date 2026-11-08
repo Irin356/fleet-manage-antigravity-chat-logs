@@ -837,6 +837,7 @@ You can preview it on both devices right now:
 
 
 
+<details><summary><b>🛠️ Agent Workflow Trace </b></summary>
 
 ### ⚠️ ERROR (Step 348)
 
