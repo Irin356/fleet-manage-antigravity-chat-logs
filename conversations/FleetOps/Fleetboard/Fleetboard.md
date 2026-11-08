@@ -838,9 +838,6 @@ You can preview it on both devices right now:
 
 
 
-<details><summary><b>🛠️ Agent Workflow Trace (Expand)</b></summary>
-
-
 ### ⚠️ ERROR (Step 348)
 
 > {"error": {"userErrorMessage": "Model produced invalid output.", "shortError": "model output error: model output must contain either output text or tool calls, these cannot both be empty, please try again", "fullError": "model output error: model output must contain either output text or tool calls,
